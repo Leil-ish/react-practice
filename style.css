@@ -1,0 +1,11 @@
+body {
+    box-sizing:border-box;
+    max-width:70%;
+    margin-left:15%;
+    margin-right:auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact-info {
+    font-style:normal;
+}
